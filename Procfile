@@ -1,0 +1,1 @@
+ gunicorn ProjetoCatalogo.wsgi --log-file -
